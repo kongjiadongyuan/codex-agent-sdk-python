@@ -16,6 +16,12 @@
 pip install -e "./codex-agent-sdk-python"
 ```
 
+## 安装（PyPI，发布后）
+
+```bash
+pip install codex-agent-sdk-python
+```
+
 ## 快速开始（顶层 `query`）
 
 ```python
